@@ -1,4 +1,7 @@
-# Hi, I'm Luvices
+<h1 align="center">Hi 👋, I'm Reezli</h1>
+<h3 align="center">A passionate developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luvices&label=Profile%20views&color=0e75b6&style=flat" alt="luvices" /> </p>
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&vCenter=true&multiline=true&width=600&height=100&lines=System+Researcher++%E2%80%A2++Reverse+Engineer;Low-Level+Development+(C%2B%2B++%E2%80%A2++C);Exploring+Kernel+Space++%26++Game+Security" alt="Typing SVG" />
